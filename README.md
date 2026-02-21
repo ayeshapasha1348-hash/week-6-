@@ -1,1 +1,1 @@
-# week-6-
+Week 6 – Interactive Sales Dashboard Documentation
